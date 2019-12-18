@@ -1,1 +1,1 @@
-# study_memo
+# study_note
