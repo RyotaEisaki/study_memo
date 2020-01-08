@@ -68,3 +68,11 @@ Java言語は【 オブジェクト　】指向型の言語であり，クラス
 メソッドやフィールドの順序は、全く任意の順番で構わない
 
 基本型
+    整数型
+        byte short int long 
+    不動小数点型
+        float double 
+    文字型
+        char
+    ブール型
+        boolean
