@@ -12,7 +12,7 @@
 ___
 
 ### 箇条書きリスト
-    - リスト1
+     リスト1
         - ネスト リスト1_1
             - ネスト リスト1_1_1
             - ネスト リスト1_1_2
@@ -61,6 +61,18 @@ ___
 >> 
 >> 引用2_2
 
+### 打ち消し
+    ~~打ち消し~~
+~~打ち消し~~
+追加情報としたい内容を、detailsタグで囲みます。そして、要約として表示したい文章をsummaryタグで記載します。
+
+
+### 折り畳み
+折り畳み
+
+<details><summary>折り畳み</summary>説明</details>
+
+
 ### pre記法(スペース4個orタブ)
 #### Tab
     class Hoge
@@ -99,6 +111,24 @@ normal __bold__ normal
 normal ***bold*** normal
 normal ___bold___ normal
 
+### チェックボックス
+    - [ ] タスク1
+    - [ ] タスク2
+- [ ] タスク1
+- [x] タスク2
+
+### 数式の挿入
+
+    ```math
+    \left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq
+    \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+    ```
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq
+\left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+
 ### 水平線
     ***
 
@@ -127,3 +157,17 @@ ___
 [Google2](google)
 その他の文章
 [Google3](google)
+
+### 画像表示
+    ![代替テキスト](gazou.png "タイトル")
+  ![代替テキスト](gazou.png "タイトル")
+
+  ### 表組
+    |header1|header2|header3|
+    |:--|--:|:--:|
+    |align left|align right|align center|
+    |a|b|c|
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
