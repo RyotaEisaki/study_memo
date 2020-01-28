@@ -5,7 +5,6 @@
 ___
 
 ### 見出し
-
     # 見出し1
     ## 見出し2
     ### 見出し3
@@ -129,7 +128,7 @@ ___
     [Google2](google)
     その他の文章
     [Google3](google)
-    
+
 [Google2](google)
 その他の文章
 [Google3](google)
