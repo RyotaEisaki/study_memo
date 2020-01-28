@@ -1,8 +1,11 @@
 # study_note
-[markdown](https://qiita.com/tbpgr/items/989c6badefff69377da7)
+
+学習メモ
+
+___
 
 ### Markdown記法まとめ
-___
+[markdown](https://qiita.com/tbpgr/items/989c6badefff69377da7)
 
 ### 見出し
     # 見出し1
@@ -71,8 +74,6 @@ ___
             print 'hoge'
         end
     end
-
----
 
 #### Space
     class Hoge
