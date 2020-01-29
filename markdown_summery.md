@@ -89,9 +89,10 @@ ___
 
     折り畳み
     <details><summary>折り畳み</summary>説明</details>
-    ### pre記法(スペース4個orタブ)
 折り畳み
 <details><summary>折り畳み</summary>説明</details>
+
+
 ### pre記法(スペース4個orタブ)
 
 #### Tab
