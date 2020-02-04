@@ -5,7 +5,7 @@
 ___
 
 ### Markdown記法まとめ
-[markdown](https://qiita.com/tbpgr/items/989c6badefff69377da7)
+[markdown.md](https://github.com/RyotaEisaki/study_note/blob/master/markdown.md)
 
 ### 見出し
     # 見出し1
